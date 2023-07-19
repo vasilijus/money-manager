@@ -9,3 +9,11 @@ c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\obj\D
 c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\obj\Debug\CSLesson6.Form1.resources
 c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\bin\Debug\CSMoney.dll
 c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\bin\Debug\CSMoney.pdb
+C:\Users\Sergio\code\money-manager\CSLesson6\obj\Debug\CSLesson6.csproj.AssemblyReference.cache
+C:\Users\Sergio\code\money-manager\CSLesson6\obj\Debug\CSLesson6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\code\money-manager\CSLesson6\obj\Debug\CSLesson6.Form1.resources
+C:\Users\Sergio\code\money-manager\CSLesson6\obj\Debug\CSLesson6.Properties.Resources.resources
+C:\Users\Sergio\code\money-manager\CSLesson6\obj\Debug\CSLesson6.csproj.GenerateResource.cache
+C:\Users\Sergio\code\money-manager\CSLesson6\obj\Debug\CSLesson6.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\code\money-manager\CSLesson6\obj\Debug\CSLesson6.exe
+C:\Users\Sergio\code\money-manager\CSLesson6\obj\Debug\CSLesson6.pdb

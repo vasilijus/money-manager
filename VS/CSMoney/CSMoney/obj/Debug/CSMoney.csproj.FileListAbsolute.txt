@@ -3,3 +3,9 @@ C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\CSMoney\CSMo
 C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\CSMoney\CSMoney\obj\Debug\CSMoney.csprojResolveAssemblyReference.cache
 C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\CSMoney\CSMoney\obj\Debug\CSMoney.dll
 C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\CSMoney\CSMoney\obj\Debug\CSMoney.pdb
+C:\Users\Sergio\code\money-manager\VS\CSMoney\CSMoney\bin\Debug\CSMoney.dll
+C:\Users\Sergio\code\money-manager\VS\CSMoney\CSMoney\bin\Debug\CSMoney.pdb
+C:\Users\Sergio\code\money-manager\VS\CSMoney\CSMoney\obj\Debug\CSMoney.csproj.AssemblyReference.cache
+C:\Users\Sergio\code\money-manager\VS\CSMoney\CSMoney\obj\Debug\CSMoney.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\code\money-manager\VS\CSMoney\CSMoney\obj\Debug\CSMoney.dll
+C:\Users\Sergio\code\money-manager\VS\CSMoney\CSMoney\obj\Debug\CSMoney.pdb
